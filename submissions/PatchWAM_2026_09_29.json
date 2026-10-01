@@ -9,7 +9,7 @@
   "code_url": "https://github.com/TianhengW/PatchWAM-RoboCasa",
   "commit_hash": "7783ae2447ef26c10b2b0470753dfad6be85202e",
   "checkpoint_url": "https://huggingface.co/QZWang/robocasa-human300-step559660",
-  "paper_link": "N/A",
+  "paper_link": "https://arxiv.org/abs/2609.25961",
   "open_source": "yes",
   "wandb": "N/A",
   "training_config": {
